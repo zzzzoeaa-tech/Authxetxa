@@ -2,12 +2,12 @@
   "users": [
     {
       "license_id": "user123",
-      "license_key": "LK-ABC-999",
-      "owner": "John Doe",
+      "license_key": "PREM-ABC-999",
+      "owner": "Nama Pemilik",
       "bot_token": "123456:ABC",
       "status": "active",
-      "ip_lock": null,
-      "expire": "2026-01-01"
+      "expire": "2026-10-10",
+      "ip_lock": null
     }
   ]
 }
