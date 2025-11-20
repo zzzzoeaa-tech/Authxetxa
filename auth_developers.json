@@ -1,0 +1,16 @@
+{
+  "developers": [
+    {
+      "id": 8049903588,
+      "name": "Xetxa",
+      "token": "8550985376:AAG-QZg-0bRKfSeZITtYHmepHnaTKhIzBQk",
+      "level": "root"
+    },
+    {
+      "id": 987654321,
+      "name": "Second Developer",
+      "token": "DEV-SEC-XYZ",
+      "level": "maintainer"
+    }
+  ]
+}
